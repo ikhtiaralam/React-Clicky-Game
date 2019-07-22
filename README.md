@@ -4,9 +4,6 @@ Memory game built with React.
 
 Create a memory game with React
 
-## Live App:
-
-[Check out the live app here]()
 
 ### Overview
 
